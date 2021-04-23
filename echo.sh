@@ -12,7 +12,7 @@ sudo apt install -y ansible
 ## Bring in ansible files
 sudo mkdir /serverconfig
 sudo mkdir /serverconfig/ansible
-sudo chown kingmob:kingmob
+sudo chown -R kingmob:kingmob /serverconfig/ansible
 
 
 
