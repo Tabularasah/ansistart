@@ -10,6 +10,10 @@ sudo apt update
 sudo apt install -y ansible
 
 ## Bring in ansible files
+sudo mkdir /serverconfig
+
+
+
 
 
 
